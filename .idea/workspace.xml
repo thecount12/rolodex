@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8a64e9a-a3e5-4084-8d2a-9e9defb9a315" name="Default" comment="" />
+    <list default="true" id="e8a64e9a-a3e5-4084-8d2a-9e9defb9a315" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rolodex.py" beforeDir="false" afterPath="$PROJECT_DIR$/rolodex.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,14 +13,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.41011235">
+    <splitter split-orientation="horizontal" split-proportion="0.5576635">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/rolodex.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="901">
-                  <caret line="126" selection-start-line="126" selection-end-line="126" />
+                <state relative-caret-position="721">
+                  <caret line="115" column="50" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
                 </state>
               </provider>
             </entry>
@@ -52,13 +56,16 @@
       <find>my_list</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/rolo1.py" />
         <option value="$PROJECT_DIR$/mad_dict.py" />
-        <option value="$PROJECT_DIR$/rolodex.py" />
         <option value="$PROJECT_DIR$/test_rolodex.py" />
+        <option value="$PROJECT_DIR$/rolodex.py" />
       </list>
     </option>
   </component>
@@ -69,8 +76,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="452" />
-    <option name="y" value="63" />
+    <option name="x" value="850" />
+    <option name="y" value="64" />
     <option name="width" value="2045" />
     <option name="height" value="1203" />
   </component>
@@ -90,6 +97,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -114,6 +122,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
@@ -182,12 +191,12 @@
       <workItem from="1558038042276" duration="24119000" />
       <workItem from="1558120332320" duration="12802000" />
       <workItem from="1558145261765" duration="157000" />
-      <workItem from="1558216329398" duration="12799000" />
+      <workItem from="1558216329398" duration="14453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59539000" />
+    <option name="totallyTimeSpent" value="61193000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -199,7 +208,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="452" y="63" width="2045" height="1203" extended-state="0" />
+    <frame x="1060" y="74" width="2045" height="1203" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15341772" />
@@ -212,7 +221,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995098" weight="0.32956383" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49827942" weight="0.25575447" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5019608" side_tool="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.76150626" weight="0.329806" />
@@ -254,13 +263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rolodex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_rolodex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="974">
@@ -268,6 +270,13 @@
           <folding>
             <element signature="e#33#48#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rolodex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="115" column="50" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
         </state>
       </provider>
     </entry>

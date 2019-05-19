@@ -108,12 +108,13 @@ class Rolodex(object):
             if len(x) == 5:
                 a_dict = self.build_dict(x[0].strip(), x[1].strip(), x[2], x[3], x[4])
             if len(x) == 1:
-                a_dict["Error"] = "Error"
+                # a_dict["Error"] = "Error"
                 self.my_num.append(self.number)
             self.number += 1
             if len(a_dict) > 1:
                 self.my_list.append(a_dict)
-        return self.my_list
+        # got a dup on a few dicts. Not sure how.  I will have to look at it later
+        return [dict(t) for t in {tuple(d.items()) for d in self.my_list}]
 
     def format_output(self):
         """
