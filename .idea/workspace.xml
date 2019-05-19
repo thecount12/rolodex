@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8a64e9a-a3e5-4084-8d2a-9e9defb9a315" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rolodex.py" beforeDir="false" afterPath="$PROJECT_DIR$/rolodex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +18,7 @@
             <entry file="file://$PROJECT_DIR$/rolodex.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="721">
-                  <caret line="115" column="50" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
+                  <caret line="115" column="38" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
                 </state>
               </provider>
             </entry>
@@ -76,8 +74,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="850" />
-    <option name="y" value="64" />
+    <option name="x" value="848" />
+    <option name="y" value="63" />
     <option name="width" value="2045" />
     <option name="height" value="1203" />
   </component>
@@ -191,12 +189,12 @@
       <workItem from="1558038042276" duration="24119000" />
       <workItem from="1558120332320" duration="12802000" />
       <workItem from="1558145261765" duration="157000" />
-      <workItem from="1558216329398" duration="14453000" />
+      <workItem from="1558216329398" duration="14665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61193000" />
+    <option name="totallyTimeSpent" value="61405000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,7 +206,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1060" y="74" width="2045" height="1203" extended-state="0" />
+    <frame x="848" y="63" width="2045" height="1203" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15341772" />
@@ -276,7 +274,7 @@
     <entry file="file://$PROJECT_DIR$/rolodex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="721">
-          <caret line="115" column="50" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
+          <caret line="115" column="38" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
         </state>
       </provider>
     </entry>

@@ -113,7 +113,7 @@ class Rolodex(object):
             self.number += 1
             if len(a_dict) > 1:
                 self.my_list.append(a_dict)
-        # got a dup on a few dicts. Not sure how.  I will have to look at it later
+        # fixed but might change logic
         return [dict(t) for t in {tuple(d.items()) for d in self.my_list}]
 
     def format_output(self):
